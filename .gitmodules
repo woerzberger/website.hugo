@@ -1,0 +1,8 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/woerzberger/woerzberger.github.io.git
+	branch = master
+[submodule "themes/hugo-uno"]
+	path = themes/hugo-uno
+	url = https://github.com/fredrikloch/hugo-uno.git
+	branch = master

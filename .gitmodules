@@ -6,3 +6,11 @@
 	path = themes/hugo-uno
 	url = https://github.com/fredrikloch/hugo-uno.git
 	branch = master
+[submodule "themes/hugo-initio"]
+	path = themes/hugo-initio
+	url = https://github.com/miguelsimoni/hugo-initio.git
+	branch = master
+[submodule "themes/academic"]
+	path = themes/academic
+	url = https://github.com/gcushen/hugo-academic.git
+	branch = master

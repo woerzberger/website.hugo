@@ -48,7 +48,7 @@ defaultContentLanguageInSubdir = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "woerzberger.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "rene@woerzberger.default"
+  email = "rene@woerzberger.de"
   address = "room 04.2.040, Münsterstraße 156, 40476 Düsseldorf, Germany"
   office_hours = "email for appointment"
   phone = ""

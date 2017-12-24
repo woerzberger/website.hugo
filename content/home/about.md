@@ -23,13 +23,13 @@ weight = 5
 [[education.courses]]
   course = "Diploma in Informatics"
   institution = "RWTH Aachen University"
-  year = 2009
+  year = 2004
  
 +++
 
 # Biography
 
-Since September 2017, René Wörzberger is a professor of software engineering at the University of Applied Science Düsseldorf. His research interests include software engineering with a focus on web information systems and software architectures.
+Since September 2017, René Wörzberger is a professor of software engineering at the Hochschule Düsseldorf, University of Applied Science. His research interests include software engineering with a focus on web information systems and software architectures.
 
 Till June 2017, he worked as a IT architect and project manager at Deutsche Post DHL Group for diverse web systems and as a software architect and technical project leader at NTT DATA Deutschland.
 

@@ -35,7 +35,7 @@ selected = true
 projects = ["dyproto"]
 
 # Links (optional).
-url_pdf = "https://www.researchgate.net/profile/Rene_Woerzberger/publication/247777836_Management_dynamischer_Geschaftsprozesse_auf_Basis_statischer_Prozessmanagementsysteme/links/00b4951dd4629a02fb000000/Management-dynamischer-Geschaeftsprozesse-auf-Basis-statischer-Prozessmanagementsysteme.pdf"
+url_pdf = "https://www.researchgate.net/profile/Rene_Woerzberger/publication/247777836_Management_dynamischer_Geschaftsprozesse_auf_Basis_statischer_Prozessmanagementsysteme/links/00b4951dd4629a02fb000000/Management-dynamischer-Geschaeftsprozesse-auf-Basis-statischer-Prozessmanagementsysteme.pdf?inViewer=true&disableCoverPage=true&origin=publication_detail"
 #url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 #url_code = "#"
 #url_dataset = "#"
@@ -62,5 +62,3 @@ image = "headers/bubbles-wide.jpg"
 caption = "My caption :smile:"
 
 +++
-
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.

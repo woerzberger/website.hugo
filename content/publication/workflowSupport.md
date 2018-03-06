@@ -1,9 +1,9 @@
 +++
-title = "Management dynamischer Geschäftsprozesse auf Basis statischer Prozessmanagementsysteme (Dissertation)"
-date = "2010-04-01"
+title = "Workflow Support for Inter-organizational Design Processes"
+date = "2007-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["René Wörzberger"]
+authors = ["Ri Hai", "Markus Heller", "Wolfgang Marquardt", "Manfred Nagl", "René Wörzberger"]
 
 # Publication type.
 # Legend:
@@ -14,17 +14,17 @@ authors = ["René Wörzberger"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["5"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Shaker Verlag"
-publication_short = "Shaker"
+publication = "9th International Symposium Process Systems Engineering (PSE 2003), 09.-13.07.2006, Garmisch-Partenkirchen, Germany, 6 pages (2006)"
+publication_short = "EASST"
 
 # Abstract and optional shortened version.
-abstract = "In dieser Arbeit wird ein Prozessmanagementsystem beschrieben, das auch dynamische Prozesse unterstützt. Dynamische Änderungen können von Prozessbeteiligten über strukturelle Änderungen an Modellen bereits laufender Prozesse durchgeführt werden."
+abstract = "Inter-organizational design processes are inefficiently supported by management tools w.r.t. to their dynamic nature and inherent complexity. In this paper, we present an innovative framework for the definition, analysis, improvement, and management of such design processes. Key features are to bridge the gap between modeling and execution of inter-organizational design processes and the seamless execution support for both dynamic and static parts of the overall process both by appropriate process management systems. A case study is given for the conceptual design process of a plant for polyamide 6 production by hydrolytic polymerization. "
 
 # Featured image thumbnail (optional)
-image_preview = "thumbnails/dissertation_thumbnail.png"
+image_preview = "thumbnails/workflowSupport_thumbnail.png"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -32,10 +32,10 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["dyproto"]
+projects = ["ahead"]
 
 # Links (optional).
-url_pdf = "http://www.se-rwth.de/phdtheses/Diss-Woerzberger-Management-dynamischer-Geschaeftsprozesse-auf-Basis-statischer-Prozessmanagementsysteme.pdf"
+#url_pdf = "http://www.researchgate.net/profile/Rene_Woerzberger/publication/221350648_Tool_Support_for_Dynamic_Development_Processes/links/0deec51dd923fc46fb000000.pdf?inViewer=true&disableCoverPage=true&origin=publication_detail"
 #url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 #url_code = "#"
 #url_dataset = "#"

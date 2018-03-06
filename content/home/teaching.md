@@ -15,8 +15,7 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+I am a teaching instructor of diverse courses and lab courses at Technische Hochschule Köln and Düsseldorf University of Applied Science dealing with software architectures and software engineering.
 
-I am a teaching instructor for the following courses at Düsseldorf University of Applied Science:
 
-- Software Engineering
+

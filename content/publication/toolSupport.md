@@ -35,7 +35,7 @@ selected = true
 projects = ["ahead"]
 
 # Links (optional).
-url_pdf = "http://www.researchgate.net/profile/Rene_Woerzberger/publication/221350648_Tool_Support_for_Dynamic_Development_Processes/links/0deec51dd923fc46fb000000.pdf?inViewer=true&disableCoverPage=true&origin=publication_detail"
+#url_pdf = "http://www.researchgate.net/profile/Rene_Woerzberger/publication/221350648_Tool_Support_for_Dynamic_Development_Processes/links/0deec51dd923fc46fb000000.pdf?inViewer=true&disableCoverPage=true&origin=publication_detail"
 #url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 #url_code = "#"
 #url_dataset = "#"

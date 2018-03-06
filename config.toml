@@ -40,16 +40,16 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "René Wörzberger"
-  role = "Professor of Software Engineering"
+  role = "Professor of Software Architectures and Systems"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Hochschule Düsseldorf, University of Applied Science", url = "http://www.hs-duesseldorf.de" } ]
+  organizations = [ { name = "Technische Hochschule Köln, University of Applied Science", url = "http://www.th-koeln.de" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "woerzberger.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "rene@woerzberger.de"
-  address = "room 04.2.040, Münsterstraße 156, 40476 Düsseldorf, Germany"
+  address = "room ZN6-7, Betzdorfer Str. 2, 50679 Köln (Cologne), Germany"
   office_hours = "email for appointment"
   phone = ""
   skype = ""
@@ -83,8 +83,8 @@ defaultContentLanguageInSubdir = false
   #   3: OpenStreetMap (Mapbox)
   map = 1
   map_api_key = "AIzaSyB36M_og5mjpOyNw7cpVn4qzeu-utTqLrM"
-  latitude = "51.2468416"
-  longitude = "6.7894664"
+  latitude = "50.934290"
+  longitude = "6.988321"
   zoom = 15
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )

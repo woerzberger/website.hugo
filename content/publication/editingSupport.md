@@ -1,9 +1,9 @@
 +++
-title = "Management dynamischer Geschäftsprozesse auf Basis statischer Prozessmanagementsysteme (Dissertation)"
-date = "2010-04-01"
+title = "Process Model Editing Support Using Eclipse Modeling Project Tools"
+date = "2008-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["René Wörzberger"]
+authors = [ "René Wörzberger", "Thomas Heer"]
 
 # Publication type.
 # Legend:
@@ -14,17 +14,17 @@ authors = ["René Wörzberger"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["5"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Shaker Verlag"
-publication_short = "Shaker"
+publication = "Proceedings of the Second Workshop on MDSD Today 2008, pp. 81-88, Shaker, 2008"
+publication_short = "MDSD"
 
 # Abstract and optional shortened version.
-abstract = "In dieser Arbeit wird ein Prozessmanagementsystem beschrieben, das auch dynamische Prozesse unterstützt. Dynamische Änderungen können von Prozessbeteiligten über strukturelle Änderungen an Modellen bereits laufender Prozesse durchgeführt werden."
+abstract = "Process models of manifold kinds are extensively used in the field of Business Process Management (BPM). Providing appropriate visualization and editing support for process models is of major importance. This particularly includes support for the adherence to certain modeling constraints. In this paper we report how we leverage tools and frameworks of the Eclipse Modeling Project in order to rapidly develop an editor for different kinds of interrelated process models."
 
 # Featured image thumbnail (optional)
-image_preview = "thumbnails/dissertation_thumbnail.png"
+image_preview = "thumbnails/editingSupport_thumbnail.png"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -32,10 +32,10 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["dyproto"]
+projects = ["ahead"]
 
 # Links (optional).
-url_pdf = "http://www.se-rwth.de/phdtheses/Diss-Woerzberger-Management-dynamischer-Geschaeftsprozesse-auf-Basis-statischer-Prozessmanagementsysteme.pdf"
+#url_pdf = "http://www.researchgate.net/profile/Rene_Woerzberger/publication/248149948_Process_Model_Editing_Support_Using_Eclipse_Modeling_Project_Tools/links/0046351ddab02ac1c0000000.pdf?inViewer=true&disableCoverPage=true&origin=publication_detail"
 #url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 #url_code = "#"
 #url_dataset = "#"

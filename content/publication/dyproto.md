@@ -35,7 +35,7 @@ selected = true
 projects = ["dyproto"]
 
 # Links (optional).
-url_pdf = "http://www.researchgate.net/profile/Rene_Woerzberger/publication/259911765_DYPROTO__tools_for_dynamic_business_processes/links/551d58b50cf2d0b9a99c4928.pdf?inViewer=true&disableCoverPage=true&origin=publication_detail"
+url_pdf = "http://www.se-rwth.de/publications/DYPROTO-tools-for-dynamic-business-processes.pdf"
 #url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 #url_code = "#"
 #url_dataset = "#"

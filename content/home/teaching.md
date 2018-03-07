@@ -15,7 +15,7 @@ weight = 60
 
 +++
 
-I am a teaching instructor of diverse courses and lab courses at Technische Hochschule Köln and Düsseldorf University of Applied Science dealing with software architectures and software engineering.
+I give diverse lectures and lab courses at Technische Hochschule Köln and Düsseldorf University of Applied Science dealing with software architectures and software engineering.
 
 
 

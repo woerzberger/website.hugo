@@ -32,10 +32,10 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["ahead"]
+projects = ["dyproto"]
 
 # Links (optional).
-#url_pdf = "http://www.researchgate.net/profile/Rene_Woerzberger/publication/221350648_Tool_Support_for_Dynamic_Development_Processes/links/0deec51dd923fc46fb000000.pdf?inViewer=true&disableCoverPage=true&origin=publication_detail"
+url_pdf = "http://journal.ub.tu-berlin.de/eceasst/article/download/51/37"
 #url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 #url_code = "#"
 #url_dataset = "#"

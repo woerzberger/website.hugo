@@ -32,7 +32,7 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["ahead"]
+projects = ["dyproto"]
 
 # Links (optional).
 #url_pdf = http://www.researchgate.net/profile/Rene_Woerzberger/publication/220888893_Adding_Support_for_Dynamics_Patterns_to_Static_Business_Process_Management_Systems/links/0deec51ddab577ce17000000.pdf?inViewer=true&disableCoverPage=true&origin=publication_detail"

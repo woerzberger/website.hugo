@@ -32,7 +32,7 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["ahead"]
+projects = ["dyproto"]
 
 # Links (optional).
 url_pdf = "https://pdfs.semanticscholar.org/0d82/3d6a1b0fed69369f4ce1fdcc7deb9619c24a.pdf"

@@ -32,7 +32,7 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["ahead"]
+projects = ["dyproto"]
 
 # Links (optional).
 #url_pdf = "http://www.researchgate.net/profile/Rene_Woerzberger/publication/221586422_R._Workflows_in_Dynamic_Development_Processes._In/links/0deec51dd923f969a7000000.pdf?inViewer=true&disableCoverPage=true&origin=publication_detail"

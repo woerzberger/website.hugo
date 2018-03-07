@@ -32,7 +32,7 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["ahead"]
+projects = ["dyproto"]
 
 # Links (optional).
 #url_pdf = "http://www.researchgate.net/profile/Rene_Woerzberger/publication/248149948_Process_Model_Editing_Support_Using_Eclipse_Modeling_Project_Tools/links/0046351ddab02ac1c0000000.pdf?inViewer=true&disableCoverPage=true&origin=publication_detail"

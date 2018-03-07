@@ -32,7 +32,7 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["ahead"]
+projects = ["dyproto"]
 
 # Links (optional).
 #url_pdf = "http://www.researchgate.net/profile/Thomas_Kurpick/publication/224397721_On_Correctness_Compliance_and_Consistency_of_Process_Models/links/0deec53c6389319278000000.pdf?inViewer=true&disableCoverPage=true&origin=publication_detail"

@@ -1,5 +1,5 @@
 +++
-title = "Management dynamischer Geschäftsprozesse auf Basis statischer Prozessmanagementsysteme (Dissertation)"
+title = "Management dynamischer Geschäftsprozesse auf Basis statischer Prozess-Managementsysteme (Dissertation)"
 date = "2010-04-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

@@ -24,7 +24,7 @@ publication_short = "LNCS"
 abstract = "In the past funding periods of the CRC 476 the process management system AHEAD has been developed as a research prototype (cf. 3.4). The project T6 aims at transferring the corresponding research results into two different industrial environments. Together with innotec GmbH, we realize a process management system on top of the chemical engineering tool Comos PT. This system will allow for the holistic management of the overall administration configuration (activities, products and resources). Furthermore, we extend our application experience by also considering dynamic business processes. In cooperation with AMB-Informatik, we build a workflow management system that allows dynamic changes of workflows at runtime. This new workflow management system is also built on top of an existing one, which strictly separates build-time from runtime."
 
 # Featured image thumbnail (optional)
-image_preview = "thumbnails/anAdaptive_thumbnail.png"
+image_preview = "thumbnails/dynamicProcess_thumbnail.png"
 
 # Is this a selected publication? (true/false)
 selected = true

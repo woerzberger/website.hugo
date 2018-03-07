@@ -27,7 +27,7 @@ abstract = "Design processes in chemical engineering are hard to support. In par
 image_preview = "thumbnails/anAdaptive_thumbnail.png"
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

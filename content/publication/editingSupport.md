@@ -27,7 +27,7 @@ abstract = "Process models of manifold kinds are extensively used in the field o
 image_preview = "thumbnails/editingSupport_thumbnail.png"
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -35,7 +35,7 @@ selected = true
 projects = ["dyproto"]
 
 # Links (optional).
-#url_pdf = "http://www.researchgate.net/profile/Rene_Woerzberger/publication/248149948_Process_Model_Editing_Support_Using_Eclipse_Modeling_Project_Tools/links/0046351ddab02ac1c0000000.pdf?inViewer=true&disableCoverPage=true&origin=publication_detail"
+url_pdf = "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.453.9837&rep=rep1&type=pdf"
 #url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 #url_code = "#"
 #url_dataset = "#"

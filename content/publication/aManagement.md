@@ -27,7 +27,7 @@ abstract = "Development processes in chemical engineering are hard to support. I
 #image_preview = "thumbnails/anAdaptive_thumbnail.png"
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -35,7 +35,7 @@ selected = true
 projects = ["ahead"]
 
 # Links (optional).
-#url_pdf = "http://www.researchgate.net/profile/Rene_Woerzberger/publication/221586422_R._Workflows_in_Dynamic_Development_Processes._In/links/0deec51dd923f969a7000000.pdf?inViewer=true&disableCoverPage=true&origin=publication_detail"
+url_pdf = "https://pdfs.semanticscholar.org/2530/04f8b547caeec98b3aabc450be0c70d1cfc7.pdf"
 #url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 #url_code = "#"
 #url_dataset = "#"

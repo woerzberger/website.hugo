@@ -27,7 +27,7 @@ abstract = "The management of development processes is a challenging task and ne
 image_preview = "thumbnails/flexibleMultidimensional_thumbnail.png"
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

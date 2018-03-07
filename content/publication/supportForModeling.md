@@ -27,7 +27,7 @@ abstract = "Engineering design processes are highly complex and dynamic inasmuch
 image_preview = "thumbnails/supportForModeling_thumbnail.png"
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -35,7 +35,7 @@ selected = true
 projects = ["t6"]
 
 # Links (optional).
-#url_pdf = "http://www.researchgate.net/profile/Thomas_Heer/publication/220340878_Support_for_modeling_and_monitoring_of_engineering_design_processes/links/0c96052b89a4d0913b000000.pdf?inViewer=true&disableCoverPage=true&origin=publication_detail"
+url_pdf = "https://pdfs.semanticscholar.org/629d/1a13204a2f00b941c2136cc03daee754f90a.pdf"
 #url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 #url_code = "#"
 #url_dataset = "#"

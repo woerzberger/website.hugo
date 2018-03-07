@@ -27,7 +27,7 @@ abstract = "Many companies use business process management systems (BPMS) for mo
 image_preview = "thumbnails/addingSupport_thumbnail.png"
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -35,7 +35,7 @@ selected = true
 projects = ["dyproto"]
 
 # Links (optional).
-#url_pdf = http://www.researchgate.net/profile/Rene_Woerzberger/publication/220888893_Adding_Support_for_Dynamics_Patterns_to_Static_Business_Process_Management_Systems/links/0deec51ddab577ce17000000.pdf?inViewer=true&disableCoverPage=true&origin=publication_detail"
+url_pdf = "https://link.springer.com/content/pdf/10.1007%2F978-3-540-78789-1_6.pdf"
 #url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 #url_code = "#"
 #url_dataset = "#"

@@ -27,7 +27,7 @@ abstract = "In industry, there are many workflow management systems (wfms) which
 image_preview = "thumbnails/evaluatingWorkflow_thumbnail.png"
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

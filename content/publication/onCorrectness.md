@@ -27,7 +27,7 @@ abstract = "Process management incorporates a plethora of models, which are expr
 image_preview = "thumbnails/onCorrectness_thumbnail.png"
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -35,7 +35,7 @@ selected = true
 projects = ["dyproto"]
 
 # Links (optional).
-#url_pdf = "http://www.researchgate.net/profile/Thomas_Kurpick/publication/224397721_On_Correctness_Compliance_and_Consistency_of_Process_Models/links/0deec53c6389319278000000.pdf?inViewer=true&disableCoverPage=true&origin=publication_detail"
+url_pdf = "https://www.researchgate.net/profile/Thomas_Kurpick/publication/224397721_On_Correctness_Compliance_and_Consistency_of_Process_Models/links/0deec53c6389319278000000/On-Correctness-Compliance-and-Consistency-of-Process-Models.pdf"
 #url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 #url_code = "#"
 #url_dataset = "#"

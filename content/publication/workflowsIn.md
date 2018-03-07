@@ -27,7 +27,7 @@ abstract = "Process management systems are used in many domains to monitor and c
 image_preview = "thumbnails/workflowsIn_thumbnail.png"
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -35,7 +35,7 @@ selected = true
 projects = ["dyproto"]
 
 # Links (optional).
-#url_pdf = "http://www.researchgate.net/profile/Rene_Woerzberger/publication/221586422_R._Workflows_in_Dynamic_Development_Processes._In/links/0deec51dd923f969a7000000.pdf?inViewer=true&disableCoverPage=true&origin=publication_detail"
+url_pdf = "https://link.springer.com/content/pdf/10.1007%2F978-3-642-00328-8_26.pdf"
 #url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 #url_code = "#"
 #url_dataset = "#"

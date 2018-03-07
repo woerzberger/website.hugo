@@ -213,10 +213,39 @@ defaultContentLanguageInSubdir = false
     link = "https://scholar.google.co.uk/citations?user=5es-RpYAAAAJ"
 
   [[params.social]]
+    icon = "researchgate"
+    icon_pack = "ai"
+    link = "https://www.researchgate.net/profile/Rene_Woerzberger"
+
+  [[params.social]]
+    icon = "dblp"
+    icon_pack = "ai"
+    link = "https://dblp.uni-trier.de/pers/hd/w/W=ouml=rzberger:Ren=eacute="
+
+  [[params.social]]
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/woerzberger"
 
+  [[params.social]]
+    icon = "xing"
+    icon_pack = "fa"
+    link = "https://www.xing.com/profile/Rene_Woerzberger"
+  
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/prof-dr-rené-wörzberger-99295434/"  
+  
+  [[params.social]]
+    icon = "google-plus"
+    icon_pack = "fa"
+    link = "https://plus.google.com/+Ren%C3%A9W%C3%B6rzberger"  
+
+  [[params.social]]
+    icon = "facebook"
+    icon_pack = "fa"
+    link = "https://www.facebook.com/rene.worzberger" 
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the

@@ -16,7 +16,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Informatics"
+  course = "Doctoral degree in Informatics"
   institution = "RWTH Aachen University"
   year = 2010
 

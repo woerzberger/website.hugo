@@ -1,6 +1,6 @@
-baseurl = "https://woerzberger.github.io/"
+baseurl = "https://rene.woerzberger.de/"
 title = "Prof. Dr. René Wörzberger"
-copyright = "&copy; 2017 René Wörzberger"
+copyright = "&copy; 2018 René Wörzberger"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -39,7 +39,7 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "René Wörzberger"
+  name = "Prof. Dr. René Wörzberger"
   role = "Professor of Software Architectures and Systems"
 
   # Organizations/Affiliations.

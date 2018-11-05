@@ -81,7 +81,7 @@ defaultContentLanguageInSubdir = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 1
+  map = 0
   map_api_key = "AIzaSyB36M_og5mjpOyNw7cpVn4qzeu-utTqLrM"
   latitude = "50.934290"
   longitude = "6.988321"
@@ -224,27 +224,27 @@ defaultContentLanguageInSubdir = false
 
   [[params.social]]
     icon = "github"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "//github.com/woerzberger"
 
   [[params.social]]
     icon = "xing"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "https://www.xing.com/profile/Rene_Woerzberger"
   
   [[params.social]]
     icon = "linkedin"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "https://www.linkedin.com/in/prof-dr-rené-wörzberger-99295434/"  
   
   [[params.social]]
     icon = "google-plus"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "https://plus.google.com/+Ren%C3%A9W%C3%B6rzberger"  
 
   [[params.social]]
     icon = "facebook"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "https://www.facebook.com/rene.worzberger" 
 
 # Navigation Links
@@ -304,24 +304,3 @@ defaultContentLanguageInSubdir = false
   languageCode = "en-us"
 
 # DSVGO according to https://gohugo.io/about/hugo-and-gdpr/
-[privacy]
-  [privacy.disqus]
-    disable = false
-  [privacy.googleAnalytics]
-    anonymizeIP = false
-    disable = false
-    respectDoNotTrack = false
-    useSessionStorage = false
-  [privacy.instagram]
-    disable = false
-    simple = false
-  [privacy.twitter]
-    disable = false
-    enableDNT = false
-    simple = false
-  [privacy.vimeo]
-    disable = false
-    simple = false
-  [privacy.youtube]
-    disable = false
-    privacyEnhanced = false

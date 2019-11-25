@@ -14,3 +14,6 @@
 	path = themes/academic
 	url = https://github.com/gcushen/hugo-academic.git
 	branch = master
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git

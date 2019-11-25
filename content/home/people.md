@@ -1,6 +1,3 @@
----
-draft: true
----
 +++
 # A "Meet the Team" section created with the People widget.
 # This section displays people from `content/authors/` which belong to the `user_groups` below.

@@ -15,29 +15,41 @@ weight = 60
 
 +++
 
-I give diverse lectures and lab courses at Technische Hochschule Köln and Düsseldorf University of Applied Science dealing with software architectures, software engineering and cloud computing.
+I give diverse lectures and lab courses at Technische Hochschule Köln dealing with software architectures, software engineering and cloud computing.
 
-- "Software Management" in Computer Science & Engineering (Bachelor's program) including topics like
-    - Git Deep-Dive
-    - Test Automation with JUnit, Mockit, Selenium and JMeter
-    - Continuous Integration with GitLab
-    - Cloud Computing with Google Cloud
-    - Container Virtualization with Docker
-    - Container Orchestration with Kubernetes
-- "System Design Lab Course" in Computer Science & Engineering (Bachelor's program) including topics like
-    - End-to-end software development process in small teams
-    - Source-code management and issue tracking with GitLab
-    - Documentation with AsciiDoc
-- "Large and Cloud-based Software Systemes" in Computer Science & Engineering (Master's program) including topics like
-    - Quality-driven software design
-    - Constituents and patterns of large-scale web applications
-    - Cloud computing
-    - Virtualization technologies
-    - API design
-- "Client Server Basics" in study program "Code & Context" (Bachelor)
-    - Web fundamentals and front-end programming (HTML, CSS, Javascript etc.)
-    - Backend-Programming with Java, Spring, SQL and NoSQL databases
-- "DevOps" in study program "Code & Context" (Bachelor)
+[**Software Management**](https://f07-studieninfo.web.th-koeln.de/f07wiki/bin/view/F07_Studium/BaTIN2012_SM.html) in [Computer Science & Engineering (Bachelor's program)](https://www.th-koeln.de/en/academics/information-engineering-bachelors-degree_7277.php) including topics like
 
+- Git Deep-Dive
+- Test Automation with JUnit, Mockit, Selenium and JMeter
+- Continuous Integration with GitLab
+- Cloud Computing with Google Cloud
+- Container Virtualization with Docker
+- Container Orchestration with Kubernetes
 
+[**System Design Lab Course**](https://f07-studieninfo.web.th-koeln.de/f07wiki/bin/view/F07_Studium/BaTIN2012_SYP.html) in [Computer Science & Engineering (Bachelor's program)](https://www.th-koeln.de/en/academics/information-engineering-bachelors-degree_7277.php) including topics like
 
+- End-to-end software development process in small teams
+- Source-code management and issue tracking with GitLab
+- Documentation with AsciiDoc
+
+[**Large and Cloud-based Software Systemes**](https://f07-studieninfo.web.th-koeln.de/f07wiki/bin/view/F07_Studium/MaTIN2012_LCSS.html) in [Computer Science & Engineering (Master's program)](https://www.th-koeln.de/en/academics/information-engineering-masters-program_7572.php) including topics like
+
+- Stakeholder analysis
+- Quality-driven software design
+- Constituents and patterns of large-scale web applications
+- Cloud computing
+- Virtualization technologies
+- API and protocol technologies
+
+[**Client Server Basics**](https://coco.study/kurse/110-coding-software-1/114-client-server-basics/) in study program [Code & Context (Bachelor's program)](https://www.th-koeln.de/en/academics/code--context-bachelors-program_62107.php)
+
+- Web fundamentals and front-end programming (HTML, CSS, Javascript etc.)
+- Backend-Programming with Java, Spring, SQL and NoSQL databases
+
+[**DevOps**](https://coco.study/kurse/210-coding-software-2/devops/) in study program "Code & Context" [Code & Context (Bachelor's program)](https://www.th-koeln.de/en/academics/code--context-bachelors-program_62107.php)
+
+- Git Deep-Dive
+- Linux 
+- Networking
+- Container Virtualization and Orchestration
+- Cloud Computing

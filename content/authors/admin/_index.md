@@ -18,10 +18,11 @@ organizations:
   url: "https://www.th-koeln.de/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include software architectures for cloud-based web applications.
+bio: My research interests include software engineering and architectures for cloud-based web applications.
 
 interests:
 - Software Architectures
+- Large Scale Web Applications
 - Software Engineering
 - Cloud Computing
 
@@ -77,10 +78,4 @@ social:
 #- Visitors
 ---
 
-Since March 2018, René Wörzberger works as professor of software architectures and systems at the TH Köln (University of Applied Science). His research interests include software architectures with a focus on web information systems and software engineering.
-
-Till February 2018, he was a professor of software engineering at the Hochschule Düsseldorf, University of Applied Science. 
-
-Till June 2017, he worked as an IT architect and project manager at Deutsche Post DHL Group for diverse web systems and as a software architect and technical project leader at NTT DATA Deutschland.
-
-René received both his doctoral degree in 2010 and his diploma in 2004 from the RWTH Aachen University.
+Since 2017, I work as a professor in the field of software architectures, software systems, and software engineering. Prior to that, I have worked as an IT architect and project manager at Deutsche Post DHL Group and NTT Data. 

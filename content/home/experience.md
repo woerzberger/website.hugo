@@ -49,7 +49,7 @@ date_format = "Jan 2006"
   date_end = "2017-06-30"
   description = """Responsibilities included
   
-  * Architecturing large scale web applications
+  * Architecting large scale web applications
   * Project management
   """
 
@@ -68,7 +68,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Pdh Student and Lecturer"
+  title = "PhD Student and Lecturer"
   company = "RWTH Aachen"
   company_url = "https://rwth.de"
   location = "Aachen, Germany"
@@ -76,9 +76,9 @@ date_format = "Jan 2006"
   date_end = "2009-12-31"
   description = """Responsibilities included
   
-  * Resarching in the field of business process management systems
+  * Researching in the field of business process management systems
   * Giving lectures in software engineering
-  * Acquiring fundings
+  * Acquiring funding
   """
 
 +++

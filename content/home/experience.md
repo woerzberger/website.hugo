@@ -49,7 +49,7 @@ date_format = "Jan 2006"
   date_end = "2017-06-30"
   description = """Responsibilities included
   
-  * Architecting large scale web applications
+  * Architecting large-scale web applications
   * Project management
   """
 

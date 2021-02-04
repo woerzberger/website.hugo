@@ -55,12 +55,12 @@ I give/gave diverse lectures and lab courses at Technische Hochschule Köln deal
     - Web Security: How to make communication and interaction in web applications confidential, authentic and integrous? What are common threats and methods? What are hash functions, symmetric and asymmetric ciphers? What is encryption and signing? How does Transport Layer Security (TLS), Open Authorization (OAuth2), and OpenID Connect (OIDC) work?
     - Persistence: What kind of (No)SQL databases do we have and what are their trade-offs (relational, document, key-value, graph)? How does scaling work in the database world? How much consistency do I need?
 
-[**Client Server Basics**](https://coco.study/kurse/110-coding-software-1/114-client-server-basics/) in study program [Code & Context (Bachelor's program)](https://www.th-koeln.de/en/academics/code--context-bachelors-program_62107.php)
+[**Client Server Basics**](https://coco.study/kurse/110-coding-software-1/114-client-server-basics/) in study program ["Code & Context" (Bachelor's program)](https://www.th-koeln.de/en/academics/code--context-bachelors-program_62107.php)
 
 - Web fundamentals and front-end programming (HTML, CSS, Javascript etc.)
 - Backend-Programming with Java, Spring, SQL and NoSQL databases
 
-[**DevOps**](https://coco.study/kurse/210-coding-software-2/devops/) in study program "Code & Context" [Code & Context (Bachelor's program)](https://www.th-koeln.de/en/academics/code--context-bachelors-program_62107.php)
+[**DevOps**](https://coco.study/kurse/210-coding-software-2/devops/) in study program ["Code & Context" (Bachelor's program)](https://www.th-koeln.de/en/academics/code--context-bachelors-program_62107.php)
 
 - Git Deep-Dive
 - Linux 
@@ -68,7 +68,7 @@ I give/gave diverse lectures and lab courses at Technische Hochschule Köln deal
 - Container Virtualization and Orchestration
 - Cloud Computing
 
-[**Trustable Applications**](https://coco.study/kurse/310-developing-things-1/trustable-apps/) in study program "Code & Context" [Code & Context (Bachelor's program)](https://www.th-koeln.de/en/academics/code--context-bachelors-program_62107.php)
+[**Trustable Applications**](https://coco.study/kurse/310-developing-things-1/trustable-apps/) in study program ["Code & Context" (Bachelor's program)](https://www.th-koeln.de/en/academics/code--context-bachelors-program_62107.php)
 
 - Security basics: common threats and methods
 - Cryptographic basics: hash functions, symmetric and asymmetric encryption and siging
@@ -76,4 +76,4 @@ I give/gave diverse lectures and lab courses at Technische Hochschule Köln deal
 - Open Authorization 2 (OAuth2)
 - Open ID Connect (OIDC)
 
-[**Community and Reflection**](https://coco.study/module/140-core-01/) in study program "Code & Context" [Code & Context (Bachelor's program)](https://www.th-koeln.de/en/academics/code--context-bachelors-program_62107.php)
+[**Community and Reflection**](https://coco.study/module/140-core-01/) in study program ["Code & Context" (Bachelor's program)](https://www.th-koeln.de/en/academics/code--context-bachelors-program_62107.php)

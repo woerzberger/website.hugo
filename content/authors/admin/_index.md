@@ -22,7 +22,7 @@ bio: My research interests include software engineering and architectures for cl
 
 interests:
 - Software Architectures
-- Large Scale Web Applications
+- Large-scale Web Applications
 - Software Engineering
 - Cloud Computing
 

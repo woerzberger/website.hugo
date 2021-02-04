@@ -34,26 +34,26 @@ I give/gave diverse lectures and lab courses at Technische Hochschule Köln deal
 
 [**Large and Cloud-based Software Systemes**](https://f07-studieninfo.web.th-koeln.de/f07wiki/bin/view/F07_Studium/MaTIN2012_LCSS.html) in [Computer Science & Engineering (Master's program)](https://www.th-koeln.de/en/academics/information-engineering-masters-program_7572.php) including topics like
 
-- Software Systems: definition and some basic terms
+- _Software Systems_: definition and some basic terms
     - Stakeholders: The whole plethora of stakeholder groups and their numerous interests in large projects.
-- Quality Attributes
-    - Performance: What makes my system slow? What workload do I have to deal with? Why is often latency a bigger problem than throughput? Why is it bad idea to fully utilize my system? How can I scale my system?
-    - Dependability: How can I increase my system’s availability? How can I make my system resilient to faults? Why do I have to trade availabilty for consistency and vice versa?
-    - Quality Attribute Maintainabilty: What is maintainability? What fundamental cognitive mechanism drive the perception of a code base’s maintainability?
-    - Security: How can I describe security properties? What are aspect of security? What are common threats for (web based) systems?
-- Design
-    - Trade-offs: Why is there no silver bullet?
-    - Requirements: How can I formulate quality requirements?
-    - Principles: Which fundamental principles govern architectural design?
-    - Patterns: How should I distribute my system? How do systems and their parts communicate?
-- Technology
-    - Middleware: What standard components constitute a contemporary large cloud-based web application? What are load balancers, inbound gateways, caching services, data warehouses, message queues, identity provides etc.?
-    - Cloud Computing: What kinds of cloud offerings do we have to deal with? How do we create a infrastructure in the cloud for a large scale web application?
-    - Virtualization: What are virtual machines and containers, how do they differ and what are the trade-offs?
-    - Web: How do HTTP as the fundamental protocol of the world-wide web, its applications like GraphQL and related protocols like WebSockets and gRPC work? How can web applications be secured by means of Transport Layer Security (TLS) for encryption and server (and client) authentication, OAuth 2 for authorization, and OpenID Connect for user authentication?
-    - Messaging and Streaming: What do message queues, brokers and streaming platforms like Apache Kafka do?
-    - Web Security: How to make communication and interaction in web applications confidential, authentic and integrous? What are common threats and methods? What are hash functions, symmetric and asymmetric ciphers? What is encryption and signing? How does Transport Layer Security (TLS), Open Authorization (OAuth2), and OpenID Connect (OIDC) work?
-    - Persistence: What kind of (No)SQL databases do we have and what are their trade-offs (relational, document, key-value, graph)? How does scaling work in the database world? How much consistency do I need?
+- _Quality Attributes_
+    - _Performance_: What makes my system slow? What workload do I have to deal with? Why is often latency a bigger problem than throughput? Why is it bad idea to fully utilize my system? How can I scale my system?
+    - _Dependability_: How can I increase my system’s availability? How can I make my system resilient to faults? Why do I have to trade availabilty for consistency and vice versa?
+    - _Quality Attribute Maintainabilty_: What is maintainability? What fundamental cognitive mechanism drive the perception of a code base’s maintainability?
+    - _Security_: How can I describe security properties? What are aspect of security? What are common threats for (web based) systems?
+- _Design_
+    - _Trade-offs_: Why is there no silver bullet?
+    - _Requirements_: How can I formulate quality requirements?
+    - _Principles_: Which fundamental principles govern architectural design?
+    - _Patterns_: How should I distribute my system? How do systems and their parts communicate?
+- _Technology_
+    - _Middleware_: What standard components constitute a contemporary large cloud-based web application? What are load balancers, inbound gateways, caching services, data warehouses, message queues, identity provides etc.?
+    - _Cloud Computing_: What kinds of cloud offerings do we have to deal with? How do we create a infrastructure in the cloud for a large scale web application?
+    - _Virtualization_: What are virtual machines and containers, how do they differ and what are the trade-offs?
+    - _Web_: How do HTTP as the fundamental protocol of the world-wide web, its applications like GraphQL and related protocols like WebSockets and gRPC work? How can web applications be secured by means of Transport Layer Security (TLS) for encryption and server (and client) authentication, OAuth 2 for authorization, and OpenID Connect for user authentication?
+    - _Messaging and Streaming_: What do message queues, brokers and streaming platforms like Apache Kafka do?
+    - _Web Security_: How to make communication and interaction in web applications confidential, authentic and integrous? What are common threats and methods? What are hash functions, symmetric and asymmetric ciphers? What is encryption and signing? How do Transport Layer Security (TLS), Open Authorization (OAuth2), and OpenID Connect (OIDC) work?
+    - _Persistence_: What kind of (No)SQL databases do we have and what are their trade-offs (relational, document, key-value, graph)? How does scaling work in the database world? How much consistency do I need?
 
 [**Programming Basics (Praktische Informatik)**](http://f07-studieninfo.web.th-koeln.de/f07_handbuecher_2020/html_pdf/M_PI2_BaTIN2020.html) in [Computer Science & Engineering (Bachelor's program)](https://www.th-koeln.de/en/academics/information-engineering-bachelors-degree_7277.php) in a one-term substitution including topics like
 

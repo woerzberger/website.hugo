@@ -55,6 +55,13 @@ I give/gave diverse lectures and lab courses at Technische Hochschule Köln deal
     - Web Security: How to make communication and interaction in web applications confidential, authentic and integrous? What are common threats and methods? What are hash functions, symmetric and asymmetric ciphers? What is encryption and signing? How does Transport Layer Security (TLS), Open Authorization (OAuth2), and OpenID Connect (OIDC) work?
     - Persistence: What kind of (No)SQL databases do we have and what are their trade-offs (relational, document, key-value, graph)? How does scaling work in the database world? How much consistency do I need?
 
+[**Programming Basics (Praktische Informatik)**](http://f07-studieninfo.web.th-koeln.de/f07_handbuecher_2020/html_pdf/M_PI2_BaTIN2020.html) in [Computer Science & Engineering (Bachelor's program)](https://www.th-koeln.de/en/academics/information-engineering-bachelors-degree_7277.php) in a one-term substitution including topics like
+
+- Java type system and object-oriented programming
+- Dynamic data structures
+- Java IO
+- Java UI programming / event driven programming
+
 [**Client Server Basics**](https://coco.study/kurse/110-coding-software-1/114-client-server-basics/) in study program ["Code & Context" (Bachelor's program)](https://www.th-koeln.de/en/academics/code--context-bachelors-program_62107.php)
 
 - Web fundamentals and front-end programming (HTML, CSS, Javascript etc.)

@@ -38,9 +38,9 @@ I give/gave diverse lectures and lab courses at Technische Hochschule Köln deal
     - Stakeholders: The whole plethora of stakeholder groups and their numerous interests in large projects.
 - _Quality Attributes_
     - _Performance_: What makes my system slow? What workload do I have to deal with? Why is often latency a bigger problem than throughput? Why is it bad idea to fully utilize my system? How can I scale my system?
-    - _Dependability_: How can I increase my system’s availability? How can I make my system resilient to faults? Why do I have to trade availabilty for consistency and vice versa?
-    - _Quality Attribute Maintainabilty_: What is maintainability? What fundamental cognitive mechanism drive the perception of a code base’s maintainability?
-    - _Security_: How can I describe security properties? What are aspect of security? What are common threats for (web based) systems?
+    - _Dependability_: How can I increase my system’s availability? How can I make my system resilient to faults? Why do I have to trade availability for consistency and vice versa?
+    - _Quality Attribute Maintainability_: What is maintainability? What fundamental cognitive mechanism drive the perception of a code base’s maintainability?
+    - _Security_: How can I describe security properties? What are the aspects of security? What are common threats for (web based) systems?
 - _Design_
     - _Trade-offs_: Why is there no silver bullet?
     - _Requirements_: How can I formulate quality requirements?
@@ -48,7 +48,7 @@ I give/gave diverse lectures and lab courses at Technische Hochschule Köln deal
     - _Patterns_: How should I distribute my system? How do systems and their parts communicate?
 - _Technology_
     - _Middleware_: What standard components constitute a contemporary large cloud-based web application? What are load balancers, inbound gateways, caching services, data warehouses, message queues, identity provides etc.?
-    - _Cloud Computing_: What kinds of cloud offerings do we have to deal with? How do we create a infrastructure in the cloud for a large scale web application?
+    - _Cloud Computing_: What kinds of cloud offerings do we have to deal with? How do we create an infrastructure in the cloud for a large-scale web application?
     - _Virtualization_: What are virtual machines and containers, how do they differ and what are the trade-offs?
     - _Web_: How do HTTP as the fundamental protocol of the world-wide web, its applications like GraphQL and related protocols like WebSockets and gRPC work? How can web applications be secured by means of Transport Layer Security (TLS) for encryption and server (and client) authentication, OAuth 2 for authorization, and OpenID Connect for user authentication?
     - _Messaging and Streaming_: What do message queues, brokers and streaming platforms like Apache Kafka do?

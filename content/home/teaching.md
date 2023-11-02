@@ -15,18 +15,16 @@ weight = 60
 
 +++
 
-I give/gave diverse lectures and lab courses at Technische Hochschule Köln dealing with software architectures, software engineering and cloud computing.
+I give/gave diverse courses at Technische Hochschule Köln dealing with distributed systems architectures, software engineering and cloud computing.
 
-including topics like
-
-[**Large and Cloud-based Software Systemes**](https://f07-studieninfo.web.th-koeln.de/f07wiki/bin/view/F07_Studium/MaTIN2012_LCSS.html) in [Computer Science & Engineering (Master's program)](https://th-koeln.de/matin) including topics like
+[**Large and Cloud-based Software Systemes**](https://f07-studieninfo.web.th-koeln.de/f07wiki/bin/view/F07_Studium/MaTIN2012_LCSS.html) in [Computer Science & Engineering (Master's program)](https://th-koeln.de/matin) has its own [Lecture Notes](https://gitlab.com/rwoerzbe/public/-/raw/main/LCSS_Lecture_Notes.pdf?ref_type=heads) and includes topics like
 
 - _Software Systems_: definition and some basic terms
     - Stakeholders: The whole plethora of stakeholder groups and their numerous interests in large projects.
 - _Quality Attributes_
     - _Performance_: What makes my system slow? What workload do I have to deal with? Why is often latency a bigger problem than throughput? Why is it bad idea to fully utilize my system? How can I scale my system?
     - _Dependability_: How can I increase my system’s availability? How can I make my system resilient to faults? Why do I have to trade availability for consistency and vice versa?
-    - _Quality Attribute Maintainability_: What is maintainability? What fundamental cognitive mechanism drive the perception of a code base’s maintainability?
+    - _Maintainability_: What is maintainability? What fundamental cognitive mechanism drive the perception of a code base’s maintainability?
     - _Security_: How can I describe security properties? What are the aspects of security? What are common threats for (web based) systems?
 - _Design_
     - _Trade-offs_: Why is there no silver bullet in system architecture?
@@ -35,9 +33,11 @@ including topics like
     - _Patterns_: What do we conceive as a pattern in system architecture?
     - _Decomposition_: How can I break down my system into smaller parts, how should I do the "cuts"?
     - _Monolithic Systems_: How can I embody architecture in single (monolithic) programs, e.g., using layers or hexagonal architectures? What are the downsides of monoliths?
-    - _Scaling_: How can I lower response times and increase availabilty with horizontal scaling? What patterns do we have for scaling?
+    - _Scaling_: How can I lower response times and increase availabilty with horizontal scaling? What patterns do we have for scaling? How do we allocate processes to computing resources.
+    - _Load Balancing_: How do we distribute workload among processes of the same kind to improve thoroughput and availability=
     - _Distributed Systems_: How can I distribute a system into several programs, e.g., in a Microservice fashion. What are downsides of distribution? What are strategies for redeployment in distributed systems.
     - _Communication_: What are the basic patterns of communications in distributed systems?
+    - _Caching_: How should we store copies of data closed to its consumers to lower latency?
     - _Modelling_: How can I communicate my thoughs about systems in models using modeling languages like UML?
 - _Technology_
     - _Middleware_: What standard components constitute a contemporary large cloud-based web application? What are load balancers, inbound gateways, caching services, data warehouses, message queues, identity provides etc.?
